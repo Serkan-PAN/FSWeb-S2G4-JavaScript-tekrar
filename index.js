@@ -99,9 +99,9 @@ let ucetambolunenler = [],
   enkucuk,
   enbuyuk,
   ucebolunenlerintoplami,
-  besyuzdenkucuksayilar= [],
-  siralisayilar= [],
-  tekraredensayilar= [];
+  besyuzdenkucuksayilar = [],
+  siralisayilar = [],
+  tekraredensayilar = [];
 
 // 3a çözümü
 
